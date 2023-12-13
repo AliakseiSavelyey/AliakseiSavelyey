@@ -1,10 +1,7 @@
 [Кликни, чтобы посмотреть моё резюме](https://izmailowalex.github.io/CV/)
 
-# Aleksandr Izmailow
+# Aliaksei Savelyey
 
-<div>
-    <img src="./components/images/new_photo.jpg" alt="drawing" width="200"/>
-</div>
 
 ---
 
@@ -14,8 +11,9 @@
   <a href="https://www.linkedin.com/in/aleksandr-izmailow/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
   <a href="https://www.codewars.com/users/rsschool_fedffb7cb5e5775b">
-    <img src="https://img.shields.io/badge/Codewars-white?style=for-the-badge&logo=codewars&logoColor=red" alt="Codewars Badge"/>
+    <img src="https://img.shields.io/badge/Codewars-green?style=for-the-badge&logo=codewars&logoColor=red" alt="Codewars Badge"/>
   </a>
   <a href="https://github.com/izmailowAlex">
     <img src="https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
