@@ -1,6 +1,6 @@
-[Кликни, чтобы посмотреть моё резюме](https://izmailowalex.github.io/CV/)
+[Кликни, чтобы посмотреть моё резюме](https://drive.google.com/file/d/1i4I56gyU-x3U6bZIPjRuEMXk56JnJVkM/view?usp=drive_link)
 
-# Aliaksei Savelyey
+# Алексей Савельев
 
 
 ---
@@ -8,22 +8,22 @@
 ## Контакты:
 
 <div>
-  <a href="https://www.linkedin.com/in/aleksandr-izmailow/">
+  <a href="https://www.linkedin.com/in/aliaksei-savelyey/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="https://www.codewars.com/users/rsschool_fedffb7cb5e5775b">
+  <a href="https://www.codewars.com/users/AliakseiSavelyey">
     <img src="https://img.shields.io/badge/Codewars-green?style=for-the-badge&logo=codewars&logoColor=red" alt="Codewars Badge"/>
   </a>
-  <a href="https://github.com/izmailowAlex">
+  <a href="https://github.com/AliakseiSavelyey">
     <img src="https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </div>
 
 - Местонахождение: Минск, Беларусь
-- Телефон: +375 29 217 12 40
-- Телеграм: @aleks_bass
-- Gmail: zippon28@gmail.com
+- Телефон: +375291410707
+- Телеграм: https://t.me/Gidden
+- Gmail: aliakseisavelyey@gmail.com
 
 ---
 
