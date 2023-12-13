@@ -50,7 +50,6 @@
 
 <div>
   <img src="./components/images/react.png" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="./components/images/mobx.png" title="MobX" alt="MobX" width="40" height="40"/>&nbsp;
   <img src="./components/images/webpack.png" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="./components/images/javascript.png" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
   <img src="./components/images/typescript.png" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
@@ -62,8 +61,6 @@
   <img src="./components/images/photoshop.webp" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
   <img src="./components/images/figma.jpeg" title="Figma" alt="Figma" width="70" height="40"/>&nbsp;
   <img src="./components/images/bem.jpeg" title="BEM" alt="BEM" width="70" height="40"/>&nbsp;
-  <img src="./components/images/sony_vegas.jpeg" title="Sony Vegas" alt="Sony Vegas" width="70" height="40"/>&nbsp;
-  <img src="./components/images/Guitar_Pro.jpeg" title="Guitar Pro" alt="Guitar Pro" width="40" height="40"/>
 </div>
 
 ---
@@ -75,24 +72,3 @@ function stairsIn20(a) {
   return 20 * a.reduce((s, a) => s + a.reduce((s, n) => s + n, 0), 0);
 }
 ```
-
-## Образование:
-
-- [RSSchool - Школа программирования "The Rolling Scopes School"](https://rs.school/) - Front-end веб-разработчик 2023
-- [MyITSchool - Учебный центр "Моя Айти Школа"](https://myitschool.by/) - Front-end веб-разработчик 2022
-- БГАМ - Белорусская Государственная Академия музыки 2006-2011
-- НГМК - Новополоцкий Государственный Музыкальный колледж 2001-2005
-
----
-
-## Опыт работы:
-
-- Hotel "Rixos Bab al Bahr 5\*" (Dubai, Ras-al-Khaima) (музыкант кавергруппы) июнь 2023 - октябрь 2023
-- Образцово-показательный оркестр (артист оркестра) 2020 - 2023
-- Белгосфилармония (артист ансамбля) 2010 - 2019
-
----
-
-## Языки:
-
-- Английский - B1 (обучаюсь в школе иностранных языков "Streamline")
