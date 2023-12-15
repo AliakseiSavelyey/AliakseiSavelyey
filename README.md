@@ -1,4 +1,4 @@
-[Кликни, чтобы посмотреть моё резюме](https://drive.google.com/file/d/1i4I56gyU-x3U6bZIPjRuEMXk56JnJVkM/view?usp=drive_link)
+[Кликни, чтобы посмотреть моё резюме](https://drive.google.com/file/d/1jLRrlSM5L_6gdxSNBk17u5jsphLdoSTA/view?usp=drive_link)
 
 # Алексей Савельев
 
