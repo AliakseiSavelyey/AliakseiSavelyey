@@ -1,7 +1,5 @@
 [Кликни, чтобы посмотреть моё резюме](https://drive.google.com/file/d/1jLRrlSM5L_6gdxSNBk17u5jsphLdoSTA/view?usp=drive_link)
-
 ---
-
 [Кликни, чтобы посмотреть моё портфолио](https://aliakseisavelyey.github.io/)
 
 # Алексей Савельев
