@@ -1,4 +1,4 @@
-[Кликни, чтобы посмотреть моё резюме](https://drive.google.com/file/d/1jLRrlSM5L_6gdxSNBk17u5jsphLdoSTA/view?usp=drive_link)
+[Кликни, чтобы посмотреть моё резюме](https://drive.google.com/file/d/1aF4t2CTy6txsW92uPzvBJG7AIKwpE9fp/view?usp=drive_link)
 
 ---
 [Кликни, чтобы посмотреть моё портфолио](https://aliakseisavelyey.github.io/)
