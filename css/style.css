@@ -36,7 +36,6 @@ body {
 }
 
 .avatar-image {
-  background-image: url(./../components/images/new_photo.jpg);
   width: calc(100% - 10px);
   height: calc(100% - 10px);
   border-radius: 50%;

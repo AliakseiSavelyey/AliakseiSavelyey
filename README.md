@@ -11,14 +11,14 @@
 ## Контакты:
 
 <div>
-  <a href="https://www.linkedin.com/in/aliaksei-savelyey/">
+  <a href="https://www.linkedin.com/in/aliaksei-savelyey/"  target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="https://www.codewars.com/users/AliakseiSavelyey">
+  <a href="https://www.codewars.com/users/AliakseiSavelyey"  target="_blank">
     <img src="https://img.shields.io/badge/Codewars-green?style=for-the-badge&logo=codewars&logoColor=red" alt="Codewars Badge"/>
   </a>
-  <a href="https://github.com/AliakseiSavelyey">
+  <a href="https://github.com/AliakseiSavelyey"  target="_blank">
     <img src="https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </div>
